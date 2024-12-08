@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# clothes-discounts-v2
 
 - 📖 [Remix docs](https://remix.run/docs)
 
