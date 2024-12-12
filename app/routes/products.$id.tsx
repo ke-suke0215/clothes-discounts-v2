@@ -60,12 +60,12 @@ export default function ProductDetail() {
               />
             </div>
             <div className="bg-white p-4 rounded-lg w-[250px]">
-              <h2 className="text-lg font-semibold mb-4">割引情報</h2>
+              <h2 className="text-lg mb-4">割引情報</h2>
               <table className="w-full">
                 <thead>
                   <tr className="border-b">
-                    <th className="text-left pb-2">日付</th>
-                    <th className="text-right pb-2">値段</th>
+                    <th className="text-left pb-2 font-normal">日付</th>
+                    <th className="text-right pb-2 font-normal">値段</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y">
